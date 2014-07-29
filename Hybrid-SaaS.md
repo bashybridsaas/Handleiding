@@ -13,7 +13,7 @@ Het unieke van Hybrid SaaS is het hybride gedeelte van onze online software. Doo
 
 
 # Wat zijn de kosten? #
-Het gebruik van Hybrid SaaS is op abonnementsbasis. Het bedrag per maand wordt bepaald aan de hand van het aantal gebruikers en de afgenomen productmodules door deze gebruikers. Een berekening van uw maandbedrag vindt u op [http://www.hybridsaas.com/calculator](http://www.hybridsaas.com/calculator "http://www.hybridsaas.com/calculator"). Wij hebben vertrouwen in onze software en daarom zijn onze standaard overeenkomsten per maand opzegbaar.
+Het gebruik van Hybrid SaaS is op abonnementsbasis. Het bedrag per maand wordt bepaald aan de hand van het aantal gebruikers en de afgenomen productmodules door deze gebruikers. Wij hebben vertrouwen in onze software en daarom zijn onze standaard overeenkomsten per maand opzegbaar.
 
 
 # Een abonnement aanschaffen? #
