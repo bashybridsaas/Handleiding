@@ -1,3 +1,5 @@
+<properties menuTitle="--" pageTitle="Hybrid SaaS | Online Business Software" description="--" />
+
 ![Hybrid SaaS logo](images/logo/hybrid-saas-logo.png)
 
 # Wat is Hybrid SaaS? #
