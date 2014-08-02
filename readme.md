@@ -1,3 +1,5 @@
+<properties menutitle="Bijdragen aan deze handleiding" pagetitle="Hybrid SaaS | Online Business Software" description="" />
+
 Hybrid SaaS Handleiding Nederlands
 ================================
 Het doel van dit project is om de officiële Hybrid SaaS handleiding te beheren.

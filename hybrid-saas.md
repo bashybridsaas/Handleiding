@@ -1,4 +1,4 @@
-<properties menutitle="Over Hybrid SaaS" pagetitle="Hybrid SaaS | Online Business Software" description="--" />
+<properties menutitle="Over Hybrid SaaS" pagetitle="Hybrid SaaS | Online Business Software" description="" />
 
 ![Hybrid SaaS logo](images/logo/hybrid-saas-logo.png "class: no-shadow|Hybrid SaaS &#124; Online Business Software")
 
