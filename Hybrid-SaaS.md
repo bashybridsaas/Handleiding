@@ -1,8 +1,8 @@
-<properties menuTitle="--" pageTitle="Hybrid SaaS | Online Business Software" description="--" />
+<properties menutitle="Over Hybrid SaaS" pagetitle="Hybrid SaaS | Online Business Software" description="--" />
 
-![Hybrid SaaS logo](images/logo/hybrid-saas-logo.png)
+![Hybrid SaaS logo](images/logo/hybrid-saas-logo.png "class: no-shadow|Hybrid SaaS &#124; Online Business Software")
 
-# Wat is Hybrid SaaS? #
+# Wat is Hybrid SaaS?
 Hybrid SaaS is de online business software voor elke branche. De gebruiksvriendelijke bedrijfssoftware biedt onder andere online oplossingen op het gebied van relatiebeheer (CRM), projectbeheer, tijdregistratie, verkoopfacturatie, inkoopfacturatie en HR management (HRM). Hybrid SaaS is ontstaan vanuit de praktijk en is gebaseerd op onze jarenlange ervaring in ondernemen: wij weten dat u niet alle tijd aan uw administratie en boekhouding wilt besteden. Hybrid SaaS werkt vanuit de gedachte “het moet simpeler en sneller kunnen”.
 
 
