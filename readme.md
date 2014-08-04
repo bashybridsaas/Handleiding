@@ -8,11 +8,11 @@ Het doel van dit project is om de officiële Hybrid SaaS handleiding te beheren.
 GitHub gebruiken
 -------------------
 
-Hierbij een korte uitleg hoe je aanpassingen kan maken aan deze handleiding via GitHub, in je browser. Git-kenners kunnen ook op een lokale kopie werken, maar dat is complexer.
+Hierbij een korte uitleg hoe je aanpassingen kan maken aan deze handleiding via [GitHub](https://github.com/), in je browser. Git-kenners kunnen ook op een lokale kopie werken, maar dat is complexer.
 
-1.  Maak een GitHub-account als je die nog niet hebt, en log in.
+1.  Maak een [GitHub-account](https://github.com/) als je die nog niet hebt, en log in.
 
-2.  Fork deze *repository*. Dit doe je door op de '*fork*' knop rechtsboven te klikken. Een *fork* is identiek aan het origineel, het enige verschil is dat jij de eigenaar bent. Je kan je eigen *fork* aanpassen, het origineel niet.
+2.  *Fork* deze *repository*. Dit doe je door op de '*fork*' knop rechtsboven te klikken. Een *fork* is identiek aan het origineel, het enige verschil is dat jij de eigenaar bent. Je kan je eigen *fork* aanpassen, het origineel niet.
 
 3.  Je kan op een bestand klikken om het te bekijken. In je eigen *fork* kan je ook op de 'edit' knop klikken om het in je browser te bewerken.
 
