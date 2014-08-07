@@ -39,7 +39,7 @@ De scrollbar van dataweergaven (*query's*) werkt niet helemaal juist, daardoor k
 
 ![](images/query-scrollbalk.jpg)
 
-De scrollbalk loopt nu goed door naar rechts
+De scrollbalk loopt nu goed door naar rechts.
 
 ![](images/query-scrollbalk-fixed.jpg)
 
@@ -59,7 +59,7 @@ Dit is verholpen en de schermen zien er daardoor weer goed uit.
 
 Ticket geschiedenis
 ------------------
-In de geschiedenis van een ticket kon het voorkomen dat de volgorde niet chronologisch was, de sortering is aangepast en de volgorde is nu weer aflopend
+In de geschiedenis van een ticket kon het voorkomen dat de volgorde niet chronologisch was, de sortering is aangepast en de volgorde is nu weer aflopend.
 
 ![](images/ticket-geschiedenis-sortering.jpg)
 
