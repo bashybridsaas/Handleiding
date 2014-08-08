@@ -5,24 +5,27 @@ Hybrid SaaS Handleiding Nederlands
 Het doel van dit project is om de officiële Hybrid SaaS handleiding te beheren. Onze handleiding is door iedereen aan te passen.
 
 
-Wij maken gebruik van GitHub
+Wij maken gebruik van <label>GitHub</label>
 -------------------
 
 Hierbij een korte uitleg hoe je aanpassingen kan maken aan deze handleiding via [GitHub](https://github.com/), in je browser. Git-kenners kunnen ook op een lokale kopie werken, maar dat is complexer.
 
 <div class="info">
-Uitleg van veelgebruikte termen: <ul>
-	<li>**Git** is een versiebeheersysteem dat gebruikers in staat stelt om de wijzigingen aan bestanden te bewaren en te delen tussen teamleden. Git wordt veel ingezet voor het beheer van de broncode van (open source) software.</li>
-	<li>**GitHub** is een website die gebruikmaakt van Git om met meerdere gebruikers samen te werken aan bijvoorbeeld software- en documentontwikkeling.</li>
-	<li>Een **Repository** is een verzameling bestanden, zoals deze handleiding. Deze term wordt vaak afgekort als **repo**.</li>
-	<li>Een **Fork** is een kopie van een repository, het enige verschil is dat jij de eigenaar van deze kopie bent.<br>Je kan je eigen *fork* aanpassen, de originele *repository* niet.</li>
-	<li>Een **Pull request** is het indienen van een verzoek om wijzigingen die je hebt gemaakt in een *fork* samen te voegen in de originele *repository*.<br>De beheerder van de originele *repo* ontvangt een e-mail en zal de wijzigingen bekijken en beoordelen. Als alles in orde is zullen jouw wijzigingen terechtkomen in de handleiding.</li></ul>
-</div>
+Uitleg van veelgebruikte termen: 
 
+- **Git** is een versiebeheersysteem dat gebruikers in staat stelt om de wijzigingen aan bestanden te bewaren en te delen tussen teamleden. Git wordt veel ingezet voor het beheer van de broncode van (open source) software.
+- **GitHub** is een website die gebruikmaakt van Git om met meerdere gebruikers samen te werken aan bijvoorbeeld software- en documentontwikkeling.
+- Een **Repository** is een verzameling bestanden, zoals deze handleiding. Deze term wordt vaak afgekort als **<label>repo</label>**.
+- Een **Fork** is een kopie van een repository, het enige verschil is dat jij de eigenaar van deze kopie bent.  
+Je kan je eigen *fork* aanpassen, de originele *repository* niet.
+- Een **Pull request** is het indienen van een verzoek om wijzigingen die je hebt gemaakt in een *fork* samen te voegen in de originele *repository*.  
+De beheerder van de originele *repo* ontvangt een e-mail en zal de wijzigingen bekijken en beoordelen. Als alles in orde is zullen jouw wijzigingen in de handleiding terecht komen. 
+</div>
+   
 
 Kopie maken en bewerken van artikelen
 -------------------
-Het maken van een kopie is een makkelijke handeling. Als je langs de vreemde termen heen kan kijken valt het opzetten van een kopie (*fork*) best wel mee.
+Het maken van een kopie is een makkelijke handeling. Als je langs de vreemde termen heen kan kijken valt het opzetten van een kopie (*<label>fork</label>*) best wel mee.
 
 1.  Maak een [GitHub-account](https://github.com/) aan en log in.
 
