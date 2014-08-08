@@ -3,7 +3,7 @@
 Wachtwoord vergeten
 ===================
 
-Het kan natuurlijk altijd voorkomen dat je je wachtwoord of je inlognaam bent vergeten en daardoor niet meer kunt inloggen in je Hybrid SaaS omgeving. Je kan zelf met je e-mailadres een nieuw wachtwoord aanvragen. Met deze procedure kan je ook je inlognaam achterhalen.
+Het kan natuurlijk altijd voorkomen dat je je wachtwoord of je inlognaam bent vergeten en daardoor niet meer kunt inloggen in je Hybrid SaaS omgeving. Je kunt zelf met je e-mailadres een nieuw wachtwoord aanvragen. Met deze procedure kan je ook je inlognaam achterhalen.
 
 ![Wachtwoord vergeten](images/wachtwoord-vergeten.jpg)
 
