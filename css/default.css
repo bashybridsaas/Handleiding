@@ -443,6 +443,7 @@ img.no-shadow {
 }
 label {
   position: relative;
+  display: inline-block;
   color: #570000;
   cursor: help;
   text-shadow: 0 0 5px rgba(26, 255, 0, 0.45);
@@ -453,8 +454,8 @@ label::before {
   height: 3px;
   display: block;
   position: absolute;
-  top: 1px;
-  margin-top: 1em;
+  bottom: 1px;
+  left: 1px;
   background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAYAAAC09K7GAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAOwgAADsIBFShKgAAAABh0RVh0U29mdHdhcmUAcGFpbnQubmV0IDQuMC4zjOaXUAAAABxJREFUGFdjkIpk+A8EIAKMwQRMEETDZSCC/xkA/KEdsShzalAAAAAASUVORK5CYII=') /*../images/test.png*/;
   background-repeat: repeat-x;
 }
