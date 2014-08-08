@@ -15,7 +15,8 @@ Uitleg van veelgebruikte termen: <ul>
 	<li>**Git** is een versiebeheersysteem dat gebruikers in staat stelt om de wijzigingen aan bestanden te bewaren en te delen tussen teamleden. Git wordt veel ingezet voor het beheer van de broncode van (open source) software.</li>
 	<li>**GitHub** is een website die gebruikmaakt van Git om met meerdere gebruikers samen te werken aan bijvoorbeeld software- en documentontwikkeling.</li>
 	<li>Een **Repository** is een verzameling bestanden, zoals deze handleiding. Deze term wordt vaak afgekort als **repo**.</li>
-	<li>Een **Fork** is een kopie van een repository, het enige verschil is dat jij de eigenaar van deze kopie bent.<br>Je kan je eigen *fork* aanpassen, de originele *repository* niet.</li></ul>
+	<li>Een **Fork** is een kopie van een repository, het enige verschil is dat jij de eigenaar van deze kopie bent.<br>Je kan je eigen *fork* aanpassen, de originele *repository* niet.</li>
+	<li>Een **Pull request** is het indienen van een verzoek om wijzigingen die je hebt gemaakt in een *fork* samen te voegen in de originele *repository*.<br>De beheerder van de originele *repo* ontvangt een e-mail en zal de wijzigingen bekijken en beoordelen. Als alles in orde is zullen jouw wijzigingen terechtkomen in de handleiding.</li></ul>
 </div>
 
 
