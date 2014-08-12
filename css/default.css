@@ -427,6 +427,9 @@ img.no-shadow {
   background: url("../images/boxes/sprite.png") no-repeat;
   background-position: 0 0;
 }
+.logo {
+  margin-bottom: 25px;
+}
 .contribute {
   margin-top: 100px;
   background-color: #eee;
@@ -443,7 +446,6 @@ img.no-shadow {
 }
 label {
   position: relative;
-  display: inline-block;
   color: #570000;
   cursor: help;
   text-shadow: 0 0 5px rgba(26, 255, 0, 0.45);

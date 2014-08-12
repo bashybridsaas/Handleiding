@@ -11,19 +11,6 @@ Wij maken gebruik van <label>GitHub</label>
 
 Hierbij een korte uitleg hoe je aanpassingen kan maken aan deze handleiding via [GitHub](https://github.com/), in je browser. Git-kenners kunnen ook op een lokale kopie werken, maar dat is complexer.
 
-<div class="info">
-Uitleg van veelgebruikte termen: 
-
-- **Git** is een versiebeheersysteem dat gebruikers in staat stelt om de wijzigingen aan bestanden te bewaren en te delen tussen teamleden. Git wordt veel ingezet voor het beheer van de broncode van (open source) software.
-- **GitHub** is een website die gebruikmaakt van Git om met meerdere gebruikers samen te werken aan bijvoorbeeld software- en documentontwikkeling.
-- Een **Repository** is een verzameling bestanden, zoals deze handleiding. Deze term wordt vaak afgekort als **<label>repo</label>**.
-- Een **Fork** is een kopie van een repository, het enige verschil is dat jij de eigenaar van deze kopie bent.  
-Je kan je eigen *fork* aanpassen, de originele *repository* niet.
-- Een **Pull request** is het indienen van een verzoek om wijzigingen die je hebt gemaakt in een *fork* samen te voegen in de originele *repository*.  
-De beheerder van de originele *repo* ontvangt een e-mail en zal de wijzigingen bekijken en beoordelen. Als alles in orde is zullen jouw wijzigingen in de handleiding terecht komen. 
-</div>
-   
-
 Kopie maken en bewerken van artikelen
 -------------------
 Het maken van een kopie is een makkelijke handeling. Als je langs de vreemde termen heen kan kijken valt het opzetten van een kopie (*<label>fork</label>*) best wel mee.
@@ -37,7 +24,7 @@ Het maken van een kopie is een makkelijke handeling. Als je langs de vreemde ter
 
 4.  Als je klaar bent met bewerken, klik dan op de knop '*Commit Changes*' om de aanpassingen op te slaan.
 
-5.  Als je een nieuwe artikel en/of wijzigingen hebt gemaakt en je bent tevreden, stuur dan een zogenoemde '*pull request*'. Volg [deze stappen](https://help.github.com/articles/creating-a-pull-request) om een *pull request* te maken en als alles in orde is zal Hybrid SaaS de wijzigingen samenvoegen met de originele *repository*.
+5.  Als je een nieuwe artikel en/of wijzigingen hebt gemaakt en je bent tevreden, stuur dan een zogenoemde '*<label keyword="pull-request">pull request</label>*'. Volg [deze stappen](https://help.github.com/articles/creating-a-pull-request) om een *pull request* te maken en als alles in orde is zal Hybrid SaaS de wijzigingen samenvoegen met de originele *repository*.
 
 <div class="tip">
 Maak geen aparte *pull requests* aan voor elke zin die je hebt aanpast. Probeer een bepaald artikel (onderwerp) volledig te maken voor je deze ter controle aanbiedt. 
