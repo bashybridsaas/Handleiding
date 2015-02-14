@@ -9,7 +9,7 @@ Deze handleiding wordt automatisch omgezet naar de website [http://hybridsaas.su
 Wij maken gebruik van <label>GitHub</label>
 -------------------
 
-Hierbij een korte uitleg hoe je aanpassingen kan maken aan deze handleiding via [GitHub](https://github.com/), in je browser. Git-kenners kunnen ook op een lokale kopie werken, maar dat is complexer.
+Hierbij een korte uitleg hoe je aanpassingen kan maken aan deze handleiding via [GitHub](https://github.com/), in je browser. Git-kenners kunnen ook op een lokale kopie werken, maar dat is complexer. GitHub heeft [GitHub voor Windows](https://windows.github.com/) die het weer wat makkelijker maakt.
 
 Kopie maken en bewerken van artikelen
 -------------------
