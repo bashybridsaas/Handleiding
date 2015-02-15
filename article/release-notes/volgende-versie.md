@@ -1,4 +1,12 @@
-<properties menutitle="Release notes volgende versie" pagetitle="Release notes volgende versie" category="Release notes" />
+<properties>
+	<page>
+		<title>Release notes volgende versie</title>
+	</page>
+	<menu>
+		<position>Release notes</position>
+		<title>Volgende versie</title>
+	</menu>
+</properties>
 
 Release notes volgende versie (nog niet uitgebracht)
 ===================
