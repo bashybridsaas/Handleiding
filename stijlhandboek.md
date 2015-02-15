@@ -1,4 +1,12 @@
-<properties menutitle="Bijdragen aan deze handleiding - Stijlhandboek" pagetitle="Hybrid SaaS | Online Business Software" description="" />
+<properties>
+	<page>
+		<title>Stijlhandboek</title>
+	</page>
+	<menu>
+		<position>Handleiding / Bijdragen</position>
+		<title>Stijlhandboek</title>
+	</menu>
+</properties>
 
 Stijlhandboek
 ================================
