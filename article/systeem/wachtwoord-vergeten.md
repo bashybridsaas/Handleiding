@@ -1,4 +1,14 @@
-<properties menutitle="Wachtwoord vergeten" pagetitle="Wachtwoord vergeten" description="Uitleg over hoe je wachtwoord te herstellen als je deze niet meer weet." />
+<properties>
+	<page>
+		<title>Wachtwoord vergeten</title>
+		<description>Uitleg over hoe je wachtwoord te herstellen als je deze niet meer weet.</description>
+	</page>
+	<menu>
+		<position>Systeem / Inloggen</position>
+		<title>Wachtwoord vergeten</title>
+	</menu>
+</properties>
+
 
 Wachtwoord vergeten
 ===================
