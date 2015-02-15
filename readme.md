@@ -1,4 +1,9 @@
-<properties menutitle="Bijdragen aan deze handleiding" pagetitle="Hybrid SaaS | Online Business Software" description="" />
+<properties 
+	menutitle="Bijdragen aan deze handleiding" 
+	pagetitle="Hybrid SaaS | Online Business Software" 
+	description=""
+>
+</properties>
 
 Hybrid SaaS Handleiding Nederlands
 ================================
