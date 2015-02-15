@@ -1,8 +1,10 @@
-<properties 
-	menutitle="Bijdragen aan deze handleiding" 
-	pagetitle="Hybrid SaaS | Online Business Software" 
-	description=""
->
+<properties>
+	<page>
+		<title>Hybrid SaaS | Online Business Software</title>
+	<menu>
+		<position>Home / Menu</position>
+		<title>Bijdragen aan deze handleiding</title>
+	</menu>
 </properties>
 
 Hybrid SaaS Handleiding Nederlands
