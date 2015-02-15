@@ -1,6 +1,7 @@
 <properties>
 	<page>
 		<title>Hybrid SaaS | Online Business Software</title>
+	</page>
 	<menu>
 		<position>Home / Menu</position>
 		<title>Bijdragen aan deze handleiding</title>
