@@ -4,7 +4,7 @@
 		<description>Uitleg over hoe je wachtwoord te herstellen als je deze niet meer weet.</description>
 	</page>
 	<menu>
-		<position>Systeem / Inloggen</position>
+		<position>Handleiding / Systeem / Inloggen</position>
 		<title>Wachtwoord vergeten</title>
 	</menu>
 </properties>
