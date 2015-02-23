@@ -3,7 +3,8 @@
 		<title>Hybrid SaaS</title>
 	</page>
 	<menu>
-		<title>Hybrid SaaS</title>
+		<position>Home</position>
+		<title>Hybrid SaaS </title>
 	</menu>
 </properties>
 
