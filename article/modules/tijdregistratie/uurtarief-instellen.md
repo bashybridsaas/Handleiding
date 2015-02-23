@@ -3,10 +3,12 @@
 		<title>Uurtarief instellen</title>
 	</page>
 	<menu>
-		<position>Bedrijf / over ons</position>
+		<position>Modules / Tijdregistratie</position>
 		<title>Uurtarief instellen</title>
 	</menu>
 </properties>
 
 Uurtarief instellen
 ===================
+
+Dit is een voorbeeld
