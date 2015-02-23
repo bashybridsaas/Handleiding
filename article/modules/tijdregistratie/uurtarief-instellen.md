@@ -3,7 +3,7 @@
 		<title>Uurtarief instellen</title>
 	</page>
 	<menu>
-		<position>Modules / Tijdregistratie</position>
+		<position>Bedrijf / over ons</position>
 		<title>Uurtarief instellen</title>
 	</menu>
 </properties>
