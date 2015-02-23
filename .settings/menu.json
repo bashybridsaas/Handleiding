@@ -3,7 +3,7 @@
         {
             "name": "Home",
             "sort": "1",
-	    "url": "/index.html"
+	    "url": "/page/index.html"
         }
     ]
 }
