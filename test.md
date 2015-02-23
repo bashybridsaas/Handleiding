@@ -1,4 +1,10 @@
-Enter file contents here
+<properties>
+	<page>
+		<title>Hybrid SaaS</title>
+	</page>
+	<menu>
+		<title>Hybrid SaaS</title>
+	</menu>
+</properties>
 
-tesy
-#test#
+# Dit is de homepage #
