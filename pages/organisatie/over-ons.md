@@ -3,7 +3,7 @@
 		<title>Over Hybrid SaaS</title>
 	</page>
 	<menu>
-		<position>Systeem</position>
+		<position>Organisatie</position>
 		<title>Over Hybrid SaaS</title>
 	</menu>
 </properties>
