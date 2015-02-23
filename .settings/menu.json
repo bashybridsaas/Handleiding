@@ -2,7 +2,8 @@
     "items": [
         {
             "name": "Home",
-            "sort": "1"
+            "sort": "1",
+	    "url": "/index.html"
         }
     ]
 }
