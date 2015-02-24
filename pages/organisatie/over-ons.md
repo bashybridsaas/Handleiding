@@ -4,7 +4,7 @@
 	</page>
 	<menu>
 		<position>Organisatie</position>
-		<title>Over Hybrid SaaS</title>
+		<title>Over ons</title>
 	</menu>
 </properties>
 
