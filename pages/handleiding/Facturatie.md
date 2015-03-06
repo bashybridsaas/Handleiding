@@ -16,4 +16,13 @@
 
 Daarnaast geeft de module altijd het actuele facturatieproces weer en kun je in één oogopslag zien welke facturen zijn afgehandeld en welke er nog openstaan. Wanneer een betalingstermijn van een factuur is verstreken kunnen er gemakkelijk en snel betalingsherinneringen worden verstuurd.
 </description>
-content
+Hoe kan ik ....?
+
+# Een factuur aanmaken #
+Content
+# Commissies beheren #
+Content
+# Een creditfactuur aanmaken #
+Content
+# 1 #
+Content
