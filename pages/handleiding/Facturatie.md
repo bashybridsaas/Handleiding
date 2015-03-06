@@ -2,7 +2,6 @@
 	<page>
 		<title>Factureren</title>
 	
-	</page>
 	<menu>
 		<position>Handleiding / Modules / Facturen</position>
 		<title>Uitleg</title>
