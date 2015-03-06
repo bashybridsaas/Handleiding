@@ -1,9 +1,9 @@
 <properties>
 	<page>
-		<title>Factureren</title>
+		<title>Module facturatie</title>
 		<menu>
 		<position>Facturatie</position>
-		<title>Uitleg</title>
+		<title>Introductie</title>
 	</menu>
 </properties>
 
