@@ -19,10 +19,11 @@ Daarnaast geeft de module altijd het actuele facturatieproces weer en kun je in 
 Hoe kan ik ....?
 
 # Een factuur aanmaken #
-Content
 # Commissies beheren #
-Content
 # Een creditfactuur aanmaken #
-Content
-# 1 #
-Content
+# Een factuur en een creditfactuur samenvoegen#
+# Het totaal bedrag van (alle) openstaande facturen inzien#
+# Een herinnerring versturen#
+# Facturen beschermen tegen samenvoegen#
+# Facturen samenvoegen#
+# De Track and Trace code per email versturen met de factuur#
