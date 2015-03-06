@@ -11,5 +11,5 @@
 
 #Contracten#
 
-dit is een test over contracten???
+Content
 
