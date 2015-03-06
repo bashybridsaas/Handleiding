@@ -1,8 +1,7 @@
 <properties>
 	<page>
 		<title>Factureren</title>
-	
-	<menu>
+		<menu>
 		<position>Handleiding / Modules / Facturen</position>
 		<title>Uitleg</title>
 	</menu>
