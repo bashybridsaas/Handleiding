@@ -1,3 +1,4 @@
 {
-  "product*": {"TargetId": "Product"}
+  "product*": {"TargetId": "Product"},
+  "inkoopfactuur*": {"TargetId": "Inkoopfactuur"}
 }
