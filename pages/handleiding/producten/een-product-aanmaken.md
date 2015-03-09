@@ -4,7 +4,7 @@
 		<id>product</id>
 	</page>
 	<menu>
-		<position>Producten 
+		<position>Producten</position> 
 		<title>Introductie</title>
 	</menu>
 </properties>
