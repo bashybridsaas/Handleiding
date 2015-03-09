@@ -1,12 +1,12 @@
 <properties>
 	<page>
-		<title>Extra</title>
+		<title>Gebruiker aanmaken/wijzigen</title>
+		<id>gebruiker</id>
 	</page>
 	<menu>
-		<position>Extra 
-		<title>Introductie</title>
+		<position>Handleiding / Extra</position> 
+		<title>Gebruiker aanmaken/wijzigen</title>
 	</menu>
 </properties>
 
 #Gebruiker aanmaken/wijzigen#
-<description>
