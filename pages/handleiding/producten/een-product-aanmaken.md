@@ -1,6 +1,7 @@
 <properties>
 	<page>
 		<title>Producten</title>
+		<id>product</id>
 	</page>
 	<menu>
 		<position>Producten 
