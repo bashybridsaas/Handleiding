@@ -1,6 +1,6 @@
 <properties>
 	<page>
-		<title>Producten</title>
+		<title>Een product aanmaken</title>
 		<id>product</id>
 	</page>
 	<menu>
