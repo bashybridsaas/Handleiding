@@ -1,7 +1,7 @@
 <properties>
 	<page>
 		<title>Inkoopfacturen modulebeschrijving</title>
-		<id>inkoopfactuur<id>
+		<id>inkoopfactuur</id>
 	</page>
 	<menu>
 		<position>Inkoopfacturen</position> 
