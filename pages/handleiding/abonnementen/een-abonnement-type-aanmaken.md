@@ -3,7 +3,7 @@
 		<title>Abonnementen</title>
 	</page>
 	<menu>
-		<position>Abonnementen 
+		<position>Abonnementen</position>
 		<title>Introductie</title>
 	</menu>
 </properties>
