@@ -8,5 +8,5 @@
 	</menu>
 </properties>
 
-#Een ticket uitstellen#
+#Status van tickets aanmaken#
 <description>

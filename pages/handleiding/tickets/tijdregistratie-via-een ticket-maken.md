@@ -8,5 +8,5 @@
 	</menu>
 </properties>
 
-#Een ticket uitstellen#
+#Tijdregistratie via een ticket maken#
 <description>

@@ -8,5 +8,5 @@
 	</menu>
 </properties>
 
-#Een ticket uitstellen#
+#Prioriteit aan ticket toewijzen#
 <description>
