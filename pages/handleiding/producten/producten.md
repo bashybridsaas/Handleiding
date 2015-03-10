@@ -4,8 +4,8 @@
 		<id>product</id>
 	</page>
 	<menu>
-		<position>Producten</position> 
-		<title>Introductie</title>
+		<position>Handleiding / Producten</position> 
+		<title>Modulebeschrijving</title>
 	</menu>
 </properties>
 
