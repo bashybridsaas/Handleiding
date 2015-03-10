@@ -25,7 +25,7 @@ In de meeste gevallen kan je provider de doorverwijzing voor je instellen. Neem 
  
 <div class="warning">
 Let op:
-Als je een domein via CNAME naar je Hybrid SaaS website wilt doorverwijzen, laat dat dan ook aan onze support weten. Het domein moet namelijk ook nog in ons systeem aan jouw website worden gekoppeld.
+Als je een domein via CNAME naar je Hybrid SaaS website wilt doorverwijzen, laat dat dan ook aan onze support weten. Het domein moet namelijk ook nog in ons systeem aan jouw Hybrid SaaS-omgeving worden gekoppeld.
 </div>
 
 ## Wat geef ik door aan mijn provider? ##
