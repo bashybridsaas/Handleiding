@@ -3,7 +3,8 @@
         {
             "name": "Home",
             "sort": "1",
-	    "url": "/pages"
+	    "url": "/pages",
+	    "description": "Ga naar de beginpagina"
         }
     ]
 }
