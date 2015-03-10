@@ -2,12 +2,12 @@
 	<page>
 		<title>Producten modulebeschrijving</title>
 		<description>Producten modulebeschrijving</description>
+		<context>product*<context>
 	</page>
 	<menu>
 		<position>Handleiding / Producten</position> 
 		<title>Modulebeschrijving</title>
 	</menu>
-	<context>product*<context>
 </properties>
 
 # Producten #
