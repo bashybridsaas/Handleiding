@@ -1,13 +1,13 @@
 <properties>
 	<page>
 		<title>Een product aanmaken</title>
-		<id>product</id>
 	</page>
 	<menu>
 		<position>Handleiding / Producten</position> 
 		<title>Introductie</title>
 	</menu>
+	<context>product*</context>
 </properties>
 
-#Een product aanmaken#
-<description>
+# Een product aanmaken #
+
