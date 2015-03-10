@@ -5,6 +5,6 @@
 	</page>
 </properties>
 
-# Hybrid SaaS support # 
+# Hybrid SaaS support #
 
 U vindt hier handleidingen, downloads voor support, technische specificaties, pagina's voor het oplossen van problemen en oefeningen.
