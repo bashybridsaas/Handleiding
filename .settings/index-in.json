@@ -1,8 +1,0 @@
-{
-  "product*":			{"TargetId": "Product"},
-  "purchase-invoice*":		{"TargetId": "Inkoopfactuur"},
-  
-  
-  "dlguser*":			{"TargetId": "gebruiker"},
-  "users*":			{"TargetId": "gebruiker"}
-}
