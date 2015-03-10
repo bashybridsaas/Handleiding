@@ -7,6 +7,7 @@
 	<menu>
 		<position>Handleiding / Producten</position> 
 		<title>Introductie</title>
+		<description>Een nieuw product kan aanmaken</description>
 	</menu>
 </properties>
 
