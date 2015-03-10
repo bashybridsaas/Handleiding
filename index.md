@@ -1,7 +1,10 @@
 <properties>
 	<page>
 		<title>Hybrid SaaS</title>
+		<description>Hybrid SaaS Support</description>
 	</page>
 </properties>
 
-# Dit is de homepage #
+# Hybrid SaaS support # 
+
+U vindt hier handleidingen, downloads voor support, technische specificaties, pagina's voor het oplossen van problemen en oefeningen.
