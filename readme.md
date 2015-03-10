@@ -8,7 +8,7 @@
 	</menu>
 </properties>
 
-Hybrid SaaS Handleiding Nederlands test
+Hybrid SaaS Handleiding Nederlands
 ================================
 Het doel van dit project is om de officiële Hybrid SaaS handleiding te beheren. Onze handleiding is door iedereen aan te passen.
 Deze handleiding wordt automatisch omgezet naar de website [http://hybridsaas.support](http://hybridsaas.support)
