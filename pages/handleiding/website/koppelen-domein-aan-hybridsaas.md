@@ -12,7 +12,7 @@
 
 # Hoe stel ik de DNS records in voor mijn domeinnaam? #
 
-Om je eigen domeinnaam te koppelen aan de webshop van Hybrid SaaS dien je hiervoor label keyword="dns">DNS records</label> in te stellen. In essentie is dit om domeinnamen aan <label keyword="ip">ip-adressen</label> te koppelen. <label keyword="dns">DNS records</label> zijn essentieel voor de bereikbaarheid van je domeinnaam. 
+Om je eigen domeinnaam te koppelen aan de webshop van Hybrid SaaS dien je hiervoor <label keyword="dns">DNS records</label> in te stellen. In essentie is dit om domeinnamen aan <label keyword="ip">ip-adressen</label> te koppelen. <label keyword="dns">DNS records</label> zijn essentieel voor de bereikbaarheid van je domeinnaam. 
 
 <div class="info">Om deze reden zal Hybrid SaaS nooit handmatig records aanpassen en dien je DNS wijzigingen zelf in te voeren. Dit is zodat je kan controleren of de records kloppen voordat je deze opslaat.
 </div>
