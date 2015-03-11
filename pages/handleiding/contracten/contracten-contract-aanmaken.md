@@ -1,25 +1,25 @@
 <properties>
 	<page>
 		<title>Contracten</title>
-<description> Hier wordt het proces voor het aanmaken van een nieuw contract beschreven. Ga naar Invoervenster contract voor meer informatie over het invoervenster van de contracten. Contracten worden gebruikt om terugkerende orders en of facturen autoamtisch te verwerken.  </description>
-	
+		<description> Hier wordt het proces voor het aanmaken van een nieuw contract beschreven. Ga naar Invoervenster contract voor meer informatie over het invoervenster van de contracten. Contracten worden gebruikt om terugkerende orders en of facturen autoamtisch te verwerken.  </description>
+		<context>contract-*, dlgcontract</context>
 </page>
 	<menu>
-		<position>START/Contracten/Actieve contracten</position> 
+		<position>START  /Contracten / Actieve contracten</position> 
 		<title>Uitleg</title>
 	</menu>
 </properties>
 
-#Contracten aanmaken#
+# Contracten aanmaken #
 
 **Aanmaken van een nieuw contract**
 
 Er zijn 2 soorten contracten, de eerste genereert een factuur en de tweede een order. Hier wordt de factuur beschreven (voor een order gelden dezelfde stappen).
 
 <div class="info">
-INFO- het domein blijft gehost bij je provider.
-- de instellingen voor de domeinnaam worden aangepast, zodat bezoekers op die domeinnaam de website vinden die in Hybrid SaaS is gemaakt.
-- de instellingen voor mailaccounts bij het domein veranderen niet. Je kunt je mail dus zonder verandering blijven gebruiken.
+	INFO- het domein blijft gehost bij je provider.
+	- de instellingen voor de domeinnaam worden aangepast, zodat bezoekers op die domeinnaam de website vinden die in Hybrid SaaS is gemaakt.
+	- de instellingen voor mailaccounts bij het domein veranderen niet. Je kunt je mail dus zonder verandering blijven gebruiken.
 </div>
 
 <div class="warning">
