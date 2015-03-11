@@ -14,13 +14,14 @@
 
 Om je eigen domeinnaam te koppelen aan de webshop van Hybrid SaaS dien je hiervoor <label keyword="dns">DNS-records</label> in te stellen. In essentie is dit om domeinnamen aan <label keyword="ip">ip-adressen</label> te koppelen. <label keyword="dns">DNS-records</label> zijn essentieel voor de bereikbaarheid van je domeinnaam. 
 
-<div class="info">Om deze reden zal Hybrid SaaS nooit handmatig records aanpassen en dien je DNS wijzigingen zelf in te voeren. Dit is zodat je kan controleren of de records kloppen voordat je deze opslaat.
+<div class="info">
+Omdat een internetdomein jouw eigendom is past Hybrid SaaS geen DNS-records aan. Je dient de DNS wijzigingen zelf door te voeren.
 </div>
 
 ## Jouw domein koppelen aan Hybrid SaaS ##
 Om je domein te koppelen aan jouw Hybrid SaaS-omgeving moet je een wijziging doorvoeren in je DNS-records.
 
-<div class="info">
+<div class="tip">
 Wij raden aan om je domein te koppelen met een <label>CNAME</label>-record, dit omdat het voor kan komen dat zonder vooraankondiging het IP-adres van je Hybrid SaaS omgeving kan worden gewijzigd in geval van disaster-recovery.
 </div>
 
@@ -43,7 +44,6 @@ Vervang *omgeving* door jouw Hybrid SaaS omgevingsnaam.
 Nadat je de aanpassingen hebt ingevoerd, kan het tot 24 uur duren voor je domein met jouw Hybrid SaaS website is verbonden.
 
 <div class="info">
-- het domein blijft gehost bij je provider.
-- de instellingen voor de domeinnaam worden aangepast, zodat bezoekers op die domeinnaam de website vinden die in Hybrid SaaS is gemaakt.
-- de instellingen voor mailaccounts bij het domein veranderen niet. Je kunt je mail dus zonder verandering blijven gebruiken.
+- Je domein blijft gehost bij je provider.
+- De instellingen voor de domeinnaam moeten worden aangepast, zodat bezoekers op die domeinnaam de website vinden die in Hybrid SaaS is aangemaakt.
 </div>
