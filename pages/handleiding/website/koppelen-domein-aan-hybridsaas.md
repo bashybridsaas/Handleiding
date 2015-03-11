@@ -18,7 +18,11 @@ Om je eigen domeinnaam te koppelen aan de webshop van Hybrid SaaS dien je hiervo
 </div>
 
 ## Jouw domein koppelen aan Hybrid SaaS ##
-Om je domein te koppelen aan jouw Hybrid SaaS-omgeving moet je een wijziging doorvoeren in je DNS-records. Het beste is om een <label>CNAME</label>-record aan te maken.
+Om je domein te koppelen aan jouw Hybrid SaaS-omgeving moet je een wijziging doorvoeren in je DNS-records.
+
+<div class="info">
+Wij raden aan om je domein te koppelen met een <label>CNAME</label>-record, dit omdat het voor kan komen dat je zonder vooraankondiging het IP-adres van je Hybrid SaaS kan worden gewijzigd in geval van disaster-recovery.
+</div>
 
 ## Hoe stel ik een doorverwijzing via CNAME in? ##
 In de meeste gevallen kan je provider de doorverwijzing voor je instellen. Neem dus contact op met de support van je provider. Bij sommige providers heb je zelf de mogelijkheid om zelf de instellingen aan te passen. 
