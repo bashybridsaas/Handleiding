@@ -1,12 +1,12 @@
 <properties>
 	<page>
-		<title>Contracten</title>
+		<title>Contracten aanmaken</title>
 		<description> Hier wordt het proces voor het aanmaken van een nieuw contract beschreven. Ga naar Invoervenster contract voor meer informatie over het invoervenster van de contracten. Contracten worden gebruikt om terugkerende orders en of facturen autoamtisch te verwerken.  </description>
 		<context>contract-*, dlgcontract</context>
 </page>
 	<menu>
-		<position>START  /Contracten / Actieve contracten</position> 
-		<title>Uitleg</title>
+		<position>Handleiding / Contracten</position> 
+		<title>Contracten aanmaken</title>
 	</menu>
 </properties>
 
