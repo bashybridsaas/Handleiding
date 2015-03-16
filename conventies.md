@@ -17,7 +17,7 @@ Conventies
     <page>
         <title>Een product aanmaken</title>
         <description>Uitleg hoe je een nieuw product kan aanmaken</description>
-        <context>product*</context>
+        <context>product</context>
     </page>
     <menu>
         <position>Handleiding / Producten</position> 
