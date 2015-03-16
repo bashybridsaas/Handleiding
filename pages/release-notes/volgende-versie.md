@@ -15,7 +15,6 @@ De volgende verbeteringen en aanpassingen zullen in de volgende versie van Hybri
 
 Ticket extranet - Interne opmerking kan nu worden toegevoegd bij het aanmaken van een ticket 
 -----------------------------------------------------------------------------------------------------------
-plaatje + uitleg
 ![](images/tickets_interne_opmerking.jpg)
 
 Bedrijfsagenda - Legenda wordt nu correct weergegeven
