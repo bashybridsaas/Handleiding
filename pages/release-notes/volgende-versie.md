@@ -22,7 +22,7 @@ Interne opmerking kan nu worden toegevoegd bij het aanmaken van een ticket
 ---------------------------------------------------------------------------------------------------------
 **Bedrijfsagenda**
 
-Legenda wordt nu correct weergegeven**
+Legenda wordt nu correct weergegeven
 
 Als je bij de de verloftype in het veld "legenda" een waarde ingeeft dan zal deze ook zichtbaar worden als je via de bedrijfsagenda het rooster exproteerd. Als het veld niet wordt gevuld, dan wordt er een nummer ingezet, en deze wordt niet in het rooster zichtbaar.  
 ![](images/bedrijfsagenda_legenda.jpg)  
@@ -31,20 +31,20 @@ Als je bij de de verloftype in het veld "legenda" een waarde ingeeft dan zal dez
 
 **Word Merge** - Achter een variabel kan nu /maxlength=(int) gezet worden om tekst in te korten
 
-plaatje + uitleg
+Het is nu mogelijk om bepaalde tekst velden in wordsjablonen een andere maximale lengte mee te geven. Dit om zelf te kunnen bepalen hoeveel tekst je wilt laten zien.
+
+![](images/max-length.jpg)
 
 -----------------------------------------------------------------------------------------------------------
 
 **TICKET** 
 
-Indien ticket voor eigen gebruiker is wordt de status op gelezen gezet
 Aanmaken van nieuw ticket.
+Indien ticket voor de gebruiker is die het ticket ook heeft aangemaakt, dan wordt de status op gelezen gezet.
 
+Ticket 1500017: actie toegewezen aan een andere gebruiker, wel een envelop (ongelezen)
 
-Ticket 1500017: actie voor een andere gebruiker wel een envelop (ongelezen)
-
-
-Ticket 1500016: actie voor jezelf geeft geen envelop (ongelezen)
+Ticket 1500016: actie toegewezen aan jezelf, geeft geen envelop (ongelezen)
 ![](images/ongelezen-ticket.jpg)
 
 -----------------------------------------------------------------------------------------------------------
