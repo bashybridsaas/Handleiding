@@ -90,7 +90,8 @@ Prijsmodel vreemde valuta berekening op basis van koers indien prijs is 0, keuze
 
 **CONTRACTEN**
 
-Details met terugwerkende kracht
+Je kan nu ook met terugwerkende kracht Details met terugwerkende kracht
+![](images/contract-twk.jpg)
 
 -----------------------------------------------------------------------------------------------------------
 
