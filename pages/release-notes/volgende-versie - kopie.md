@@ -4,7 +4,7 @@
 	</page>
 	<menu>
 		<position>Release notes</position>
-		<title>Volgende versie</title>
+		<title>Volgende versie oud</title>
 	</menu>
 </properties>
 
