@@ -8,7 +8,7 @@
 	</menu>
 </properties>
 
-Release notes volgende versie (nog niet uitgebracht)
+Release notes versie 968 (17-03-2015)
 ===================
 De volgende verbeteringen en aanpassingen zullen in de volgende versie van Hybrid SaaS beschikbaar komen
 
@@ -63,7 +63,9 @@ Beperking voor negatieve aantallen, huidige data wordt geconverteerd naar negati
 
 **WORD MERGE**
 
-Ticket nummer zonder beschrijving kan er bij gezet worden
+Er kan nu in de wordsjabloon gekozen worden voor een ticket nummer zonder beschrijving 
+
+![](images/ticket-number-word.jpg)
 
 -----------------------------------------------------------------------------------------------------------
 **FACTUREN**
@@ -73,7 +75,12 @@ Je kunt nu meerdere facturen crediteren in 1 keer
 -----------------------------------------------------------------------------------------------------------
 **ABONNEMENTEN**
 
-Je kunt abonnementen koppelen aan contracten, tevens krijg je signalering als je een contract afsluit dat er nog lopende
+Je kunt abonnementen koppelen aan contracten, 
+
+![](images/abonnement.jpg)
+
+Je krijgt een signalering als je een contract afsluit waarop nog lopende abonnementen aanwezig zijn.
+![](images/einde-contract-abonnement.jpg)
 
 -----------------------------------------------------------------------------------------------------------
 **TIJDREGISTRATIE**
@@ -95,20 +102,22 @@ Je kan nu ook met terugwerkende kracht Details met terugwerkende kracht
 
 -----------------------------------------------------------------------------------------------------------
 
-**FRAMEWORK**
+**FUNCTIE**
 
-Pijltjes voor de horizontale scrolbalk werken nu
+Pijltjes voor de horizontale scrolbalk werken nu. Ook kan je nu naast de scrollbar klikken, dan verschuift het scherm ook.
+
+![](images/pijltjes.jpg)
 
 -----------------------------------------------------------------------------------------------------------
 **EXTRANET**
 
-Bij het aanmaken van een ticket onder een klant wordt je nu teruggestuurt naar de klant overzicht pagina 
+Bij het aanmaken van een ticket onder een klant wordt je nu teruggestuurd naar de klant overzicht pagina 
 
 -----------------------------------------------------------------------------------------------------------
 **E-MAIL VERLOF**
 
 Indien de gebruiker een manager aan zich gekoppeld heeft wordt <noreply@hybridsaas.com> vervangen door de e-mail van de manager 
-melding
+
 
 -----------------------------------------------------------------------------------------------------------
 **SYSTEEM**
@@ -118,12 +127,16 @@ Aanpassingen aanpassingen SPF check
 -----------------------------------------------------------------------------------------------------------
 **INKOOPFACTUREN**
 
-Koppeling vanaf personen en medewerkers
+Er is een koppeling vanaf personen en medewerkers naar de inkoopfacturen
+
+![](images/persoon-inkoopfactuur.jpg)
 
 -----------------------------------------------------------------------------------------------------------
 **VOORRAAD**
 
-Inventarisatie gaf een probleem op de boekdatum
+Het verwerken van de afgehandelde inventarisatie gaf een probleem op de boekdatum. Dit is verholpen.
+
+![](images/inventarisatie.jpg)
 
 -----------------------------------------------------------------------------------------------------------
 **TIJDREGISTRATIE**
@@ -133,12 +146,16 @@ Te verwerken en verwerkte registraties zijn opgesplitst in facturatie en mandage
 -----------------------------------------------------------------------------------------------------------
 **PRODUCTEN**
 
-Importeren en exporteren van repeterende kosten
+Importeren en exporteren van repeterende kosten is toegevoegd aan de excelsheet. Met een 1 wordt het vinkje aangezet, met een 0 lijft deze leeg.
+
+![](images/repeterende-kosten.jpg)
 
 -----------------------------------------------------------------------------------------------------------
 **GEBRUIKERS**
 
 Je kunt op de gebruikerskaart aangeven welke herinneringen zij elke ochtend willen ontvangen
+
+![](images/gebruiker-herinnering.jpg)
 
 -----------------------------------------------------------------------------------------------------------
 **SYSTEEM**
@@ -148,7 +165,7 @@ Als je aan het wijzigen bent in Hybridsaas is het nu mogelijk om tussen verschil
 -----------------------------------------------------------------------------------------------------------
 **TICKET API**
 
-Er was een fout bij het vergelijken van ID's. Als je een ticket toe wees aan je zelf handelde hij he af. Dit is verholpen
+Er was een fout bij het vergelijken van ID's. Als je een ticket toe wees aan je zelf handelde hij het af. Dit is verholpen
 
 -----------------------------------------------------------------------------------------------------------
 **TIJDREGISTRATIE**
@@ -159,6 +176,8 @@ Afromen van overuren tov HRM rooster
 **TIJDREGISTRATIE - WERKBON**
 
 Bij openen van een werkbon krijg je een melding als er registraties zijn zonder uurtarief, deze kun je ook via een menu item opvragen
+
+![](images/werkbon-uurtarief.jpg)
 
 -----------------------------------------------------------------------------------------------------------
 **TIJDREGISTRATIE**
@@ -186,14 +205,9 @@ Koppeling met tijdregistratie
 Automatische incasso kan nu ook B2B genereren
 
 -----------------------------------------------------------------------------------------------------------
-**FRAMEWORK**
-
-Je kan nu ook scrollen doormiddel van naast de scollbalk te klikken
-
------------------------------------------------------------------------------------------------------------
 **TIJDREGISTRATIE**
 
-Na het handmatig factureren van een tijdregistratie kwam deze nog een keer langs bi de automatische facturatie, dit komt omdat het systeem keer of er nog een termijnstaat voor moet worden gemaakt, dit is aangepast, indien er geen termijnstaat gewenst is zet het systeem meteen de vinkjes goed neer zodat de registratie niet meer in de automatische lijst te voorschijn komt
+Na het handmatig factureren van een tijdregistratie kwam deze nog een keer langs bij de automatische facturatie, dit komt omdat het systeem kijkt of er nog een termijnstaat voor moet worden gemaakt, dit is aangepast. Indien er geen termijnstaat gewenst is zet het systeem meteen de vinkjes goed neer zodat de registratie niet meer in de automatische lijst te voorschijn komt
 
 -----------------------------------------------------------------------------------------------------------
 **API**
@@ -203,7 +217,7 @@ Inlezen van facturen werkt nu ook met externe referentie + factuur en afleveradr
 -----------------------------------------------------------------------------------------------------------
 **PRODUCTEN - INKOOP**
 
-Je kunt nu bij het inboeken van facturen garantiedatum en serienummer vastleggen van het product. deze kun je later bij verkoop weer koppelen zodat je weet welke inkoop bij welke verkoop hoort (alleen inkoop gedeelte is af)
+Je kunt nu bij het inboeken van facturen garantiedatum en serienummer vastleggen van het product. Deze kun je later bij verkoop weer koppelen zodat je weet welke inkoop bij welke verkoop hoort (alleen inkoop gedeelte is af)
 
 -----------------------------------------------------------------------------------------------------------
 **FACTUREN**
@@ -286,9 +300,4 @@ Dupliceren detail regels + variabele looptijden weergave
 
 Je kunt bij de koppeling van het merk op de relatiekaart een accountmanager kiezen, deze komt ook automatisch bij het tabblad accountmanagers er bij te staan ivm commissies e.d.
 
------------------------------------------------------------------------------------------------------------
-**TIJDREGISTRATIE**
 
-Bij aanmaken van een registratie vanuit het ticket geeft het systeem dat een omschrijving verplicht is, dit is opgelost
-
------------------------------------------------------------------------------------------------------------
