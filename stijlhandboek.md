@@ -1,10 +1,10 @@
 <properties>
 	<page>
-		<title>Stijlhandboek12</title>
+		<title>Stijlhandboek</title>
 	</page>
 	<menu>
 		<position>Handleiding / Bijdragen</position>
-		<title>Stijlhandboek34</title>
+		<title>Stijlhandboek</title>
 	</menu>
 </properties>
 
