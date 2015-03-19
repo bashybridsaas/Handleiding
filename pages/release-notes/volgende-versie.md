@@ -1,6 +1,6 @@
 <properties>
 	<page>
-		<title>Release notes volgende versie</title>
+		<title>Release notes versie 968 (17-03-2015)</title>
 	</page>
 	<menu>
 		<position>Release notes</position>
