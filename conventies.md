@@ -29,7 +29,7 @@ Conventies
 
 **Definities**
 
-je kan definities linken uit de definities map, die link je met de tag <label>defintie</label> of <label keyword=” defintie”>lange omschrijving</label>
+je kan definities linken uit de definities map, die link je met de tag <label>definitie</label> of <label keyword=” defintie”>lange omschrijving</label>
 Ziet er dan na klik zo uit:
 
 
