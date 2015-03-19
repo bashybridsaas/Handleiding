@@ -3,7 +3,7 @@
 		<title>Hybrid SaaS | Online Business Software</title>
 	</page>
 	<menu>
-		<position>Handleiding / Bijdragen</position>
+		<position>Handleiding</position>
 		<title>Conventies</title>
 	</menu>
 </properties>
@@ -54,7 +54,7 @@ Maak geen aparte *pull requests* aan voor elke zin die je hebt aanpast. Probeer 
 Onder aan elke pagina vind je de link naar de github locatie, zo kan je snel aanpassingen maken:
 
 ![](images/feedback-github.jpg) 
-![](images/tickets_interne_opmerking.jpg)
+
 
 gaat naar:
 
