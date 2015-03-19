@@ -1,10 +1,10 @@
 <properties>
 	<page>
-		<title>Release notes versie 968 (17-03-2015)</title>
+		<title>Release notes volgende versie</title>
 	</page>
 	<menu>
 		<position>Release notes</position>
-		<title>Volgende versie</title>
+		<title> Versie 968 (17-03-2015) </title>
 	</menu>
 </properties>
 
