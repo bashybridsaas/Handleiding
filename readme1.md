@@ -8,32 +8,38 @@
 	</menu>
 </properties>
 
-Hybrid SaaS Handleiding Nederlands
+Conventies
 ================================
-Het doel van dit project is om de officiële Hybrid SaaS handleiding te beheren. Onze handleiding is door iedereen aan te passen.
-Deze handleiding wordt automatisch omgezet naar de website [http://hybridsaas.support](http://hybridsaas.support)
+
+**Header, kan je per pagina instellen, is in xml formaat**
+
+<properties>
+    <page>
+        <title>Een product aanmaken</title>
+        <description>Uitleg hoe je een nieuw product kan aanmaken</description>
+        <context>product</context>
+    </page>
+    <menu>
+        <position>Handleiding / Producten</position> 
+        <title>Introductie</title>
+        <description>Een nieuw product kan aanmaken</description>
+    </menu>
+</properties>
 
 
-Wij maken gebruik van <label>GitHub</label>
--------------------
+**Definities**
 
-Hierbij een korte uitleg hoe je aanpassingen kan maken aan deze handleiding via [GitHub](https://github.com/), in je browser. Git-kenners kunnen ook op een lokale kopie werken, maar dat is complexer. GitHub heeft [GitHub voor Windows](https://windows.github.com/) die het weer wat makkelijker maakt.
+je kan definities linken uit de definities map, die link je met de tag <label>defintie</label> of <label keyword=” defintie”>lange omschrijving</label>
+Ziet er dan na klik zo uit:
 
-Kopie maken en bewerken van artikelen
--------------------
-Het maken van een kopie is een makkelijke handeling. Als je langs de vreemde termen heen kan kijken valt het opzetten van een kopie (*<label>fork</label>*) best wel mee.
 
-1.  Maak een [GitHub-account](https://github.com/) aan en log in.
+**Extra hulp voor gebruiker**
 
-2.  *Fork* [deze *repository*](https://github.com/HybridSaaS/Handleiding). Dit doe je door in GitHub op de '*fork*' knop rechtsboven te klikken.  
-![](images/github/fork-a-repo.gif "class: no-shadow|Een repository forken is eigenlijk een ander woord voor bestanden kopiëren")  
+Je kan ook extra informatie blokken ingeven
 
-3.  Je kan op een bestand klikken om het te bekijken. In je eigen *fork* kan je ook op de 'edit' knop klikken om het in je browser te bewerken.
-
-4.  Als je klaar bent met bewerken, klik dan op de knop '*Commit Changes*' om de aanpassingen op te slaan.
-
-5.  Als je een nieuwe artikel en/of wijzigingen hebt gemaakt en je bent tevreden, stuur dan een zogenoemde '*<label keyword="pull-request">pull request</label>*'. Volg [deze stappen](https://help.github.com/articles/creating-a-pull-request) om een *pull request* te maken en als alles in orde is zal Hybrid SaaS de wijzigingen samenvoegen met de originele *repository*.
-
-<div class="tip">
-Maak geen aparte *pull requests* aan voor elke zin die je hebt aanpast. Probeer een bepaald artikel (onderwerp) volledig te maken voor je deze ter controle aanbiedt. 
+<div class="info">
+- het domein blijft gehost bij je provider.
+- de instellingen voor de domeinnaam worden aangepast, zodat bezoekers op die domeinnaam de website vinden die in Hybrid SaaS is gemaakt.
+- de instellingen voor mailaccounts bij het domein veranderen niet. Je kunt je mail dus zonder verandering blijven gebruiken.
 </div>
+
