@@ -3,7 +3,7 @@
 		<title>Hybrid SaaS | Online Business Software</title>
 	</page>
 	<menu>
-		<position>Handleiding</position>
+		<position>Handleiding / Bijdragen</position>
 		<title>Conventies</title>
 	</menu>
 </properties>
