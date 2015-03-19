@@ -252,7 +252,9 @@ Extra koppelingen naar tickets
 -----------------------------------------------------------------------------------------------------------
 **DOCUMENTSCHEMA**
 
-Koppeling document en email layout voor contracten
+Koppeling document en email lay-out voor contracten
+
+![](images/doc-schema-contracten.jpg)
 
 -----------------------------------------------------------------------------------------------------------
 **CONTRACTEN**
@@ -273,31 +275,34 @@ Merken als menu item gemaakt
 **RELATIES**
 
 Notitie tabbladen samen in 1 tab gezet
+
 ![](images/notities.jpg)
 
------------------------------------------------------------------------------------------------------------
-**COMPONENTS**
-
-Meer rechten voor websites toegevoegd
 
 -----------------------------------------------------------------------------------------------------------
 **PRODUCTEN**
 
 Merken per relatie, vanuit het merk kun je inzien welke relaties of fabrikanten die merk voeren
 
+![](images/merk-relatie-fabrikant.jpg)
+
 -----------------------------------------------------------------------------------------------------------
 **EXRTRANET**
 
-Bij het verzenden van een update (en bij het niet verzenden) van een ticket via klanten of project wordt je nu correct terug gestuurt
+Bij het verzenden van een update (en bij het niet verzenden) van een ticket via klanten of project wordt je nu correct terug gestuurd
 
 -----------------------------------------------------------------------------------------------------------
 **CONTRACTEN**
 
-Dupliceren detail regels + variabele looptijden weergave
+de naam van het tabblad onder onder contractregels is gewijzigd naar "Variabele looptijden (Details)". Verder wordt nu ook de inhoud van de variabele looptijd meegenomen bij het dupliceren van contracten.
+
+![](images/contractregel-detail.jpg)
 
 -----------------------------------------------------------------------------------------------------------
 **RELATIES**
 
 Je kunt bij de koppeling van het merk op de relatiekaart een accountmanager kiezen, deze komt ook automatisch bij het tabblad accountmanagers er bij te staan ivm commissies e.d.
+
+![](images/relatie-merk-accountmanager.jpg)
 
 
