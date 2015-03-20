@@ -4,7 +4,7 @@
 	</page>
 	<menu>
 		<position>Handleiding / Bijdragen</position>
-		<title>Conventies</title>
+		<title>Conventies-oud</title>
 	</menu>
 </properties>
 
