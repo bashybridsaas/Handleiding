@@ -27,6 +27,8 @@ Tijdens het aanmaken van een contract zijn er 2 belangrijke zaken (tabbladen) de
 **Contract gegevens** 
 ![](images/contract-hoofdpagina.png) 
 
+**Stamgegevens**
+
 - Entiteit
 	- Dit is de administratie waar dit contract onder valt (over het algemeen wordt er met 1 entiteit gewerkt)
 - Uw type
@@ -46,6 +48,9 @@ Tijdens het aanmaken van een contract zijn er 2 belangrijke zaken (tabbladen) de
 	- Hier kan je zelf een afdeling invoeren, bijvoorbeeld Financiële administratie. 
 - T.a.v.
 	- Hier kan je zelf een persoon of functie toevoegen, bijvoorbeeld Hoof administratie of Dhr. J. Janssen.
+
+**Contract instellingen**
+
 - Contractnummer
 	- Dit is een vrij in te voeren veld. Je kan deze ook viea een volgnummer laten oplopen, dit gebeurt dan bij het opslaan.
 - Omschrijving
@@ -53,21 +58,25 @@ Tijdens het aanmaken van een contract zijn er 2 belangrijke zaken (tabbladen) de
 - Externe referentie
 - Weergeven in referentie
 	- je kan hier kiezen welke tekst er in de contractreferentie wordt geplaatst. 
-		- vinkje contract aan 
+		- Vinkje contract aan 
 			- Referentie  | Contract {contractnummer}
-		- vinkje periode aan  
+		- Vinkje periode aan  
 			- Referentrie | {01-01-2015 t/m 31-01-2015}
-		- vinkje omschrijving 
+		- Vinkje omschrijving 
 			- Referentie  | Contract : {omschrijving}
-		- alle vinkjes aan    
+		- Alle vinkjes aan    
 			- Referentie  |Contract {contractnummer}: 15-8-2015  t/m  14-10-2015: contract {omschrijving
 - Ingangsdatum
 - Herinnering
 - Laatst verlengd op
 - Type uitvoer
-	- hiermee geef je aan wat de output van dit contract wordt. Dit is vaak een nieuwe factuur, maar kan ook een nieuwe order, extern contract of nieuwe factuur(regels) zijn. Dit is een **verplicht veld**
+	- Hiermee geef je aan wat de output van dit contract wordt. Dit is vaak een nieuwe factuur, maar kan ook een nieuwe order, extern contract of nieuwe factuur(regels) zijn. Dit is een **verplicht veld**
 - Uitstellen met
+
+**Plannings interval**
+
 - Niet meer genereren
+	- Als je een contract wilt beëindigen, dan kan je dit vinkje aanzetten dan wordt het contract niet meer in de planning geplaatst en ook niet meer gegenereerd.
 - Moment
 	- Hier kies je het moment waarop de factuur/order wordt gegenereerd.
 - Automatisch verlengen
@@ -75,12 +84,21 @@ Tijdens het aanmaken van een contract zijn er 2 belangrijke zaken (tabbladen) de
 - Ingangsdatum	
 	- Datum waarop het contract ingaat.
 - Dagen verschil
-- 
+	- Dagen verschil tussen ingangsdatum contract en ingangsdatum eerste keer genereren. Dit is nodig voor de berekening van een gebroken maand (naar rato)
 - Aantal
+	- Dit is het aantal keer dat je dit factuur/order wilt laten genereren. Als je de waarde op 0 laat staan wordt de factuur 24 keer klaar gezet in de planning. Bij ieder ander getal zal hij deze waarde overnemen.
 - Interval
+	- Hiermee kan je aangeven hoeveel je per keer wilt factureren. Als je bijvoorbeeld per kwartaal wilt genereren en het "Moment" staat op 1 maand dan geef je hier 3 in. 
+	- de planning zal dan 01-01-2015 t/m 31-03-2015 en 01-04-2015 t/m 30-06-2015, etc,  aanmaken
 - Einddatum 
 - Automatisch verlengen
+
+**Uitvoer instellingen**
+
 - Factuurmoment
+	- Je kan een factuur/order vooraf of achteraf laten genereren. Dit kan je hier ingeven.
 - Document schema
 	- Hier kies je een document schema, dat nodig is om de output op de juiste manier te kunnen verwerken. Hier wordt aangegeven welk wordsjabloon en emailsjabloon worden gebruikt. (zie documenten schema). Dit is een **verplicht veld**
 - Contractwaarde
+	- De waarde die wordt ingegeven bij de contractregels wordt weergegeven in deze waarde. dit kan zijn jaar, maand, week of dag. 
+
