@@ -102,3 +102,54 @@ Tijdens het aanmaken van een contract zijn er 2 belangrijke zaken (tabbladen) de
 - Contractwaarde
 	- De waarde die wordt ingegeven bij de contractregels wordt weergegeven in deze waarde. dit kan zijn jaar, maand, week of dag. 
 
+----
+
+**Contract regels**
+ 
+![](images/contract-regels.png) 
+
+**Aan te maken regels**
+
+- Toevoegen
+	- Toevoegen van contractregels.
+	- ![](images/contract-regel-titel.jpg)
+	- De 3 manieren om een contractregel toe te voegen zijn op werkcode, prepaid kaart of op productcode.
+
+**Instellingen**
+
+-  **Werkcode**
+	-  Je kan een werkcoce invoeren (als je deze weet)
+	-  Je kan een gedeelte van de tekst invoeren, het systeem haalt dan de eerste code op die hieraan voldoet.
+	-  Je kan zoeken op werkcode door op het veld "Geen werkcode gekozen" te klikken, er verschijnt dan een lijst met mogelijke werkcodes waarvan je er één kan kiezen
+-  **Prepaid kaart**
+	-  Je kan zoeken op prepaidkaart door op het veld "Geen prepaid kaart gekozen" te klikken, als er aan deze relatie één of meerdere prepaid kaarten zijn gekoppeld dan kan je die kliezen.
+-  **Productcode**
+	-  Je kan de productcode invoeren 
+	-  Je kan een gedeelte van de productcode invoeren, het systeem haalt dan de eerste code op die aan hieraan voldoet
+- **BTW-percentage** 
+	- wordt gevuld aan de hand van de gemaakte keuze. (werkcode, prepaidkaart of productcode)
+- **Omschrijving**
+	- Dit is vaak de omschrijving die wordt overgenomen uit de werkcode, prepaidkaart of de productcode. Deze kan altijd worden aangepast.
+- **Aantal**
+- **Eenheid**
+- **Basis bedrag**
+- **Marge /Korting %**
+- **Prijs**
+- **Inkoop**
+- **SPlitsen**
+
+**Generatie instellingen**
+
+- **Opstart kosten**
+- **Annulerings kosten**
+- **Ingangsdatum**
+- **Einddatum**
+- **Automatisch verlengen**
+- **Geen commissie berekenen**
+- ** laatst verlengd op**
+- **Herinnering**
+
+
+**Eenmalige kosten**
+
+- Entiteit
