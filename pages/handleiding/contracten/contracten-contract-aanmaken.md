@@ -110,10 +110,10 @@ Tijdens het aanmaken van een contract zijn er 2 belangrijke zaken (tabbladen) de
 
 **Aan te maken regels**
 
-- Toevoegen
-	- Toevoegen van contractregels.
+**Toevoegen van contractregels; Tabblad "Titel"**
 	- ![](images/contract-regel-titel.jpg)
 	- De 3 manieren om een contractregel toe te voegen zijn op werkcode, prepaid kaart of op productcode.
+
 
 **Instellingen**
 
@@ -149,6 +149,8 @@ Tijdens het aanmaken van een contract zijn er 2 belangrijke zaken (tabbladen) de
 - ** laatst verlengd op**
 - **Herinnering**
 
+**Toevoegen van contractregels; Tabblad "Variabele looptijden (Details)"**
+	- ![](images/contract-regel-variabel.jpg)
 
 **Eenmalige kosten**
 
