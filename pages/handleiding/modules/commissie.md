@@ -45,7 +45,7 @@ In dit scherm zijn "Leverancier" en "Grootboekrekening" verplichte velden. "Comm
 - Korting verdelen
 	- Op het moment dat er korting op een order wordt gegeven, is het dan de bedoeling dat deze ook in de commissie wordt verrekend of komt deze korting volledig ten laste van de organisatie 
 - Wachten op betaling
-	- Wordt de commissie bereknd zodra de order is geplaatst of pas als de order is betaald 
+	- Wordt de commissie bekerend zodra de order is geplaatst of pas als de order is betaald 
 - Contract
 - Contractregel
 - Project
