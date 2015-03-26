@@ -12,8 +12,12 @@ Commissie
 ================================
 Als bedrijf kan je externe bedrijven en/of personen inzetten om arbeid te verrichten. in De bouw praat je dan over onderaannemers en in de groothandel over vertegenwoordigers (accountmanagers). Deze diensten kan je belonen via commissie. Hier wordt beschreven welke stappen je moet doorlopen om commissie in te richten.
 
-Aanmaken accountmanager 
-![](pages/handleiding/modules/images/relatie-accountmanager.jpg) 
+
+**Rechten aanpassen**
+
+Als je accountmanagers wilt gebruiken dan moeten er rechten worden aangepast. Dit kan bij "Beveiligingsgroepen" of bij "Gebruikers wijzigen". De rechten die dan aangezet moeten worden staan in onderstaand plaatje. 
+ 
+![](pages/handleiding/modules/images/rechten-accountmanager.jpg)
 
 **Koppeling maken met een accountmanager**
 
@@ -62,8 +66,25 @@ Ga via het menu naar "Commissies", naar "commissies beheren". Kies dan voor "Toe
   
 ![](pages/handleiding/modules/images/commissie-toevoegen-beheer.jpg) 
 
-Als je 
+**Functionaliteit**
 
+- Klant: Klant A
+- Leverancier: Leverancier A
+- Accountmanager : Piet van Testpersoon
+- Commissie: Alle producten; 10 %
+- Producten zijn op voorraad
+
+
+Er wordt een order ingevoerd voor Klant A, met 2 producten van 100 euro per product. Totaalprijs 200 euro 
+
+- Order goedkeuren
+- Order afhandelen 
+- Order factureren
+
+
+
+
+---
 - emailsjabbloon aanmaken
 - wordsjabloon aanmaken
 - documentschema's aanpassen (onderaannemersbon)
