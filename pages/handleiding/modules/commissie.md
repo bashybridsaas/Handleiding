@@ -14,9 +14,16 @@ Als bedrijf kan je externe bedrijven en/of personen inzetten om arbeid te verric
 
 Aanmaken accountmanager 
 
+ 
+![](pages/handleiding/modules/images/accountmanager-overzicht.jpg) 
+Iedere gebruiker kan je als accountmanager selecteren.
+
 ![](pages/handleiding/modules/images/relatie-accountmanager.jpg) 
 
-- Klant koppelen aan accountmanager
+**Klant koppelen aan accountmanager**
+
+Als je 
+
 - emailsjabbloon aanmaken
 - wordsjabloon aanmaken
 - documentschema's aanpassen (onderaannemersbon)
