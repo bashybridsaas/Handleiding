@@ -3,7 +3,7 @@
 		<title>Commissie</title>
 	</page>
 	<menu>
-		<position>Handleiding / Modules / Commissie</position>
+		<position>Pages / Handleiding / Modules / Commissie</position>
 		<title>Commissie</title>
 	</menu>
 </properties>
@@ -17,17 +17,17 @@ Als bedrijf kan je externe bedrijven en/of personen inzetten om arbeid te verric
 
 Als je accountmanagers wilt gebruiken dan moeten er rechten worden aangepast. Dit kan bij "Beveiligingsgroepen" of bij "Gebruikers wijzigen". De rechten die dan aangezet moeten worden staan in onderstaand plaatje. 
  
-![](pages/handleiding/modules/images/rechten-accountmanager.jpg)
+![](images/rechten-accountmanager.jpg)
 
 **Koppeling maken met een accountmanager**
 
 Iedere gebruiker die aangemaakt is in het systeem kan je als accountmanager selecteren. Dit kan op 2 plaatsen namelijk bij klanten en bij personen (particulieren)
 
 Klanten:
-![](pages/handleiding/modules/images/klanten-accountmanager.jpg)
+![](images/klanten-accountmanager.jpg)
 
 Personen:
-![](pages/handleiding/modules/images/personen-accountmanager.jpg) 
+![](images/personen-accountmanager.jpg) 
 
 **Commissie toevoegen**
 
@@ -37,7 +37,7 @@ Klantkaart
 
 Ga via het menu naar "Klanten", selecteer de klant en ga naar het tabblad "Commissies". Kies dan voor "Toevoegen", onderstaand scherm verschijnt:
 
-![](pages/handleiding/modules/images/commissie-toevoegen-klant.jpg) 
+![](images/commissie-toevoegen-klant.jpg) 
 
 In dit scherm zijn "Leverancier" en "Grootboekrekening" verplichte velden. "Commissie %" is niet verplicht, maar dit is wordt wel altijd gevuld. De overige velden zijn ervoor om op specifiek niveau de commissie te laten berekenen.
 
@@ -64,7 +64,7 @@ Commissie beheer
 
 Ga via het menu naar "Commissies", naar "commissies beheren". Kies dan voor "Toevoegen", onderstaand scherm verschijnt:
   
-![](pages/handleiding/modules/images/commissie-toevoegen-beheer.jpg) 
+![](images/commissie-toevoegen-klant.jpg) 
 
 **Functionaliteit**
 
@@ -80,6 +80,23 @@ Er wordt een order ingevoerd voor Klant A, met 2 producten van 100 euro per prod
 - Order goedkeuren
 - Order afhandelen 
 - Order factureren
+
+
+![](images/commissie-order.jpg) 
+
+
+![](images/commissie-factuur.jpg)
+
+
+![](images/commissie-nieuwe-commissie-afdracht.jpg)
+
+
+![](images/commissie-afromen-datum.jpg)
+
+
+![](images/commissie-te-verzenden-naar-onderaannemer.jpg)
+
+
 
 
 
