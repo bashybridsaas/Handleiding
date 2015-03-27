@@ -3,7 +3,7 @@
 		<title>Commissie</title>
 	</page>
 	<menu>
-		<position>pages / Handleiding / Modules / Commissie</position>
+		<position>Handleiding / Modules / Commissie</position>
 		<title>Commissie</title>
 	</menu>
 </properties>
