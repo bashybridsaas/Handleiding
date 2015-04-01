@@ -3,14 +3,14 @@
 		<title>Producten imporeteren CMS</title>
 	</page>
 	<menu>
-		<position>Handleiding / Producten / Importeren</position>
+		<position>Handleiding / Modules / Producten / Importeren</position>
 		<title>Importeren CMS</title>
 	</menu>
 </properties>
 
-Importeren CMS
+Importeren CMS.
 ================================
-Hier wordt uitgelegd hoe je eenvoudig de CMS gegevens va producten kan importeren.
+Hier wordt uitgelegd hoe je eenvoudig de CMS gegevens van producten kan importeren.
 
 
 **Exporteren producten**
