@@ -14,7 +14,7 @@
 Het is mogelijk om een controle te laten plaatsvinden van de waarde van de automatische incasso's.
 
 <div class="tip">
-	Controleer in de incasso overeenkomst met je bank welke limieten van toepassing zijn.  
+Controleer in de incasso overeenkomst met je bank welke limieten van toepassing zijn.  
 </div>
 
 
@@ -37,8 +37,8 @@ Als je de eigenschappen van de bankrekening aanpast, kan je de beperkingen inste
 	- Het totaal bedrag van alle facturen in alle batches mag niet hoger zijn dan de ingegeven waarde.
 
 
-<div class="note">
-	Indien er '0' is ingegeven zal instelling worden genegeerd 
+<div class="info">
+Indien de waarde '0' is ingegeven zal instelling worden genegeerd. 
 </div>
 
 
